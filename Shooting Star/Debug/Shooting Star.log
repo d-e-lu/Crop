@@ -1,0 +1,7 @@
+﻿  main.cpp
+  ImageProcessingResource.cpp
+  CoreResource.cpp
+c:\users\dylan\documents\visual studio 2017\projects\shooting star\shooting star\coreresource.cpp(209): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+  Generating Code...
+c:\users\dylan\documents\visual studio 2017\projects\shooting star\shooting star\coreresource.cpp(82): warning C4172: returning address of local variable or temporary: table
+Debug\CoreResource.obj : fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'x64'
